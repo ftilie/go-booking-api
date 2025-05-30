@@ -16,7 +16,7 @@ This repository showcases a basic implementation of a REST API in Go, designed t
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/go-booking-api.git
+    git clone https://github.com/ftilie/go-booking-api.git
     ```
 2. Navigate to the project directory:
     ```bash
