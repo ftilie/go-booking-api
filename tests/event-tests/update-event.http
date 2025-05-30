@@ -1,0 +1,9 @@
+PUT http://localhost:8080/events/1
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZW1haWwuY29tIiwiZXhwIjoxNzQ4NjA4MzI0LCJ1c2VySWQiOjB9.J-ewSN35GUgzkMPvhr7SOboRcxHxd3Oh3I2uqIVlhs8
+
+{
+    "title": "Updated Event",
+    "description": "This is an updated test event",
+    "attendees": [1,2,4]
+}
