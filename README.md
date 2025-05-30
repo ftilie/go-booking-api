@@ -11,7 +11,6 @@ This repository showcases a basic implementation of a REST API in Go, designed t
 
 ## Prerequisites
 - Go 1.18 or higher installed on your system
-- A running instance of a PostgreSQL database with appropriate credentials
 
 ## Installation
 1. Clone the repository:
